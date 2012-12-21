@@ -1,0 +1,30 @@
+
+PODS:
+- JRSwizzle (1.0)
+- ReactiveCocoa (0.12.0):
+  - ReactiveCocoa/Core (= 0.12.0)
+  - ReactiveCocoa/RACExtensions (= 0.12.0)
+- ReactiveCocoa/Core (0.12.0):
+  - JRSwizzle (~> 1.0)
+  - libextobjc/EXTConcreteProtocol (~> 0.2.3)
+  - libextobjc/EXTKeyPathCoding (~> 0.2.3)
+  - libextobjc/EXTScope (~> 0.2.3)
+- ReactiveCocoa/RACExtensions (0.12.0):
+  - ReactiveCocoa/Core
+- libextobjc/EXTConcreteProtocol (0.2.3)
+- libextobjc/EXTKeyPathCoding (0.2.3)
+- libextobjc/EXTScope (0.2.3)
+
+DEPENDENCIES:
+- ReactiveCocoa (= 0.12.0)
+
+SPEC CHECKSUMS:
+  JRSwizzle: 6242ff38485d870fc2636899048ee1ab883ae587
+  ReactiveCocoa: c366f5d6dcb536253f0a31f2426492f84a94e689
+  ReactiveCocoa/Core: c366f5d6dcb536253f0a31f2426492f84a94e689
+  ReactiveCocoa/RACExtensions: c366f5d6dcb536253f0a31f2426492f84a94e689
+  libextobjc/EXTConcreteProtocol: 7dcd66faf065d3b7fcb5f85a1646efaed28bcadf
+  libextobjc/EXTKeyPathCoding: 7dcd66faf065d3b7fcb5f85a1646efaed28bcadf
+  libextobjc/EXTScope: 7dcd66faf065d3b7fcb5f85a1646efaed28bcadf
+
+COCOAPODS: 0.16.0
